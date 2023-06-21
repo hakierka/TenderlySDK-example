@@ -6,6 +6,7 @@ This repository provides a basic example of how to use Tenderly SDK to simulate 
 ## Examples
 
 - [basic-simulation.js](examples/basic-simulation.js): Code for running a basic transaction simulation using Tenderly SDK.
+- [advanced-simulation.js](examples/advanced-simulation.js): Placeholder for advanced simulation example code.
 
 For more information on Tenderly SDK and simulations, refer to the [Tenderly SDK documentation](https://docs.tenderly.co/tenderly-sdk/tutorials-and-quickstarts/how-to-simulate-transactions-with-tenderly-sdk).
 
